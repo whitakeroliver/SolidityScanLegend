@@ -1,4 +1,3 @@
-<!-- fallback_SolidityScanLegend_20260901141329_59177 -->
 
 # SolidityScanLegend
 
